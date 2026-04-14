@@ -1,0 +1,1 @@
+<a {{ $attributes->merge(['class' => 'dropdown-item small']) }}>{{ $slot }}</a>
